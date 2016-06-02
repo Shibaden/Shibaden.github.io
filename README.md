@@ -1,4 +1,4 @@
-# Shibaden.githut.io
+# Shibaden.github.io
 Example
 # this is headline
 _Siobhan_
